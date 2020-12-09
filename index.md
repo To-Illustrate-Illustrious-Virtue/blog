@@ -1,3 +1,5 @@
-# Welcome to my blog
+# To Illustrate Illustrious Virtue...
 
 I'm glad you are here. I plan to talk about ...
+
+the system of beauty and the ethics of leisure
