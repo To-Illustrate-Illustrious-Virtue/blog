@@ -1,3 +1,7 @@
+---
+title: "First Post"
+date: 2020-12-09
+---
 It occurred to me that I should start a blog when I was brainstorming an introductory youtube video that I will be submitting as part  of a graduate school application.
 
 The task is to introduce myself in 5 minutes. 
